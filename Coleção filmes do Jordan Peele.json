@@ -1,0 +1,26 @@
+[
+  {
+    "nome": "Get Out",
+    "anoDeLancamento": 2017,
+    "tempoDeDuracao": 104,
+    "genero": "Horror, Mystery, Thriller",
+    "diretor": "Jordan Peele",
+    "sinopse": "A young African-American visits his white girlfriend\u0027s parents for the weekend, where his simmering uneasiness about their reception of him eventually reaches a boiling point."
+  },
+  {
+    "nome": "Us",
+    "anoDeLancamento": 2019,
+    "tempoDeDuracao": 116,
+    "genero": "Horror, Mystery, Thriller",
+    "diretor": "Jordan Peele",
+    "sinopse": "In order to get away from their busy lives, the Wilson family takes a vacation to Santa Cruz, California. At night, four strangers break into Adelaide\u0027s childhood home. The family is shocked to find out that the intruders look lik..."
+  },
+  {
+    "nome": "Nope",
+    "anoDeLancamento": 2022,
+    "tempoDeDuracao": 130,
+    "genero": "Horror, Mystery, Sci-Fi",
+    "diretor": "Jordan Peele",
+    "sinopse": "The residents of a lonely gulch in inland California bear witness to an uncanny and chilling discovery."
+  }
+]
