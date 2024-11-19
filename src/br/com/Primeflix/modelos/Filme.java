@@ -51,7 +51,14 @@ public class Filme {
 
 	@Override
 	public String toString() {
-		return "[Nome do filme: " + getNome() + ", Ano de lançamento: " + getAnoDeLancamento() + ", Diretor: " + getDiretor() + "]";
+		return "[" +
+				"Nome do filme: " + getNome() + 
+				", Ano de lançamento: " + getAnoDeLancamento() + 
+				", Tempo de duração: " + getTempoDeDuracao() + " min" +
+				", Gênero: " + getDiretor() +
+				", Diretor: " + getDiretor() +
+				", Sinopse (em inglês): " + getSinopse() +
+				"]";
 	}
 	
 }

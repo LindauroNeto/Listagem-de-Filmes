@@ -39,6 +39,8 @@ public class Principal {
 		System.out.println("\nEscolha um nome para sua lista!");
 		String nomeArquivo = scanner.nextLine();
 		CriacaoArquivos.versaoJson(nomeArquivo, listaFilmesFavoritos);
+		// Versao txt
+//		CriacaoArquivos.versaoTxt(nomeArquivo, listaFilmesFavoritos);
 
 	}
 

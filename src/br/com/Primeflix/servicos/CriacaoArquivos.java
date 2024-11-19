@@ -17,4 +17,10 @@ public class CriacaoArquivos {
 		docEscrito.write(gson.toJson(listaFilmes));
 		docEscrito.close();
 	}
+	
+	public static void versaoTxt(String nomeArquivo, List<Filme> listaFilmes) throws IOException {
+		FileWriter docEscrito = new FileWriter(nomeArquivo + ".txt");
+		docEscrito.write(listaFilmes.toString());
+		docEscrito.close();
+	}
 }
